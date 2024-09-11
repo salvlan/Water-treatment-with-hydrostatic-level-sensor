@@ -1,4 +1,4 @@
-# Water-treatment-with-hydrostatic-level-sensor
+# Water treatment with hydrostatic level sensor
 
 ## Project Overview
 This repository contains the project for managing a water deposit with a height of 10 meters. The system utilizes three pumps to distribute water to a village, and the distribution is based on the water level in the deposit. An analog hydrostatic level sensor measures the water level.
