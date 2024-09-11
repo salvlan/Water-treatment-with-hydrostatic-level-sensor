@@ -23,3 +23,23 @@ This project is implemented using:
 ## Preview
 ### Textual view
 ![Textual View.](Description_Images/Textual_view.jpg "Textual View")
+
+### Scaling of the analog signal sensor
+![Scaling of the analog signal sensor.](Description_Images/Scaling_of_the_analog_signal_sensor.jpg "Scaling of the analog signal sensor")
+
+### Pump1
+![Pump1.]Description_Images/Pump1.jpg "Pump1")
+
+### Textual view
+![Textual View.](Description_Images/Textual_view.jpg "Textual View")
+
+### Textual view
+![Textual View.](Description_Images/Textual_view.jpg "Textual View")
+
+### Textual view
+![Textual View.](Description_Images/Textual_view.jpg "Textual View")
+
+### Textual view
+![Textual View.](Description_Images/Textual_view.jpg "Textual View")
+
+
