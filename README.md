@@ -27,19 +27,16 @@ This project is implemented using:
 ### Scaling of the analog signal sensor
 ![Scaling of the analog signal sensor.](Description_Images/Scaling_of_the_analog_signal_sensor.jpg "Scaling of the analog signal sensor")
 
-### Pump1
-![Pump1.]Description_Images/Pump1.jpg "Pump1")
+### Pump one
+![Pump one.](Description_Images/Pump_one.jpg "Pump one")
 
-### Textual view
-![Textual View.](Description_Images/Textual_view.jpg "Textual View")
+### Pump two
+![Pump two.](Description_Images/Pump_two.jpg "Pump two")
 
-### Textual view
-![Textual View.](Description_Images/Textual_view.jpg "Textual View")
+### Pump three
+![Pump three.](Description_Images/Pump_three.jpg "Pump three")
 
-### Textual view
-![Textual View.](Description_Images/Textual_view.jpg "Textual View")
-
-### Textual view
-![Textual View.](Description_Images/Textual_view.jpg "Textual View")
+### Timer
+![Timer.](Description_Images/Timer.jpg "Timer")
 
 
