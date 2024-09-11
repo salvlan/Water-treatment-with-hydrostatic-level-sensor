@@ -1,6 +1,6 @@
 # Water-treatment-with-hydrostatic-level-sensor
 
-this repository contiene il progetto di una water deposit with height of 10m. It also has 3 pumps which distribute water to a village. Water will be distributed when a certain level in the water-depo is reached. An analog level sensor (Hydro static) is used in order to measure the water level in the depo. A water treatment project contains a water deposit  with height of 10m.
+This repository contains the project of a water deposit with height of 10m. It also has 3 pumps which distribute water to a village. Water will be distributed when a certain level in the water-depo is reached. An analog level sensor (Hydro static) is used in order to measure the water level in the depo.
 
 The system operate as follows:
 
