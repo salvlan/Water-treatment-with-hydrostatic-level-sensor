@@ -19,3 +19,7 @@ The system also includes:
 This project is implemented using:
 - **Ladder Logic**: The control logic for the water distribution system is designed using ladder logic diagrams.
 - **CODESYS**: The project is developed and simulated using CODESYS, a leading development environment for programming industrial controllers.
+
+## Preview
+### Textual view
+![Textual view.](Description Images/Textual view.jpg "Textual view.")  
