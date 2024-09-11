@@ -22,4 +22,4 @@ This project is implemented using:
 
 ## Preview
 ### Textual view
-![Textual View.](https://github.com/salvlan/Water-treatment-with-hydrostatic-level-sensor/blob/main/Description%20Images/Textual%20view.jpg)
+![Textual View.](https://github.com/salvlan/Water-treatment-with-hydrostatic-level-sensor/blob/main/Description%20Images/Textual%20view.jpg "Textual View")
