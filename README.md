@@ -1,16 +1,21 @@
 # Water-treatment-with-hydrostatic-level-sensor
 
-This repository contains the project of a water deposit with height of 10m. It also has 3 pumps which distribute water to a village. Water will be distributed when a certain level in the water-depo is reached. An analog level sensor (Hydro static) is used in order to measure the water level in the depo.
+## Project Overview
+This repository contains the project for managing a water deposit with a height of 10 meters. The system utilizes three pumps to distribute water to a village, and the distribution is based on the water level in the deposit. An analog hydrostatic level sensor measures the water level.
 
-The system operate as follows:
+## System Operation
+- Water Level < 2m: No pump engages.
+- Water Level [2-5]m: First pump engages.
+- Water Level [6-8]m: First and second pumps engage.
+- Water Level [9-10]m: All three pumps engage.
 
-- When the water level is below 2m , no pump engage.
-- When the water level is between [2-5]m the first pump engage.
-- When the water level is between [6-8]m the first and the second pump engage.
-- When the water level is between [9-10] the first, second and third pump engage.
-- The system contains one start, and one stop push-buttons.
-- Each pump overload signal is connected to the PLC.
-- When an overload occurs, only the corresponding pump stop.
-- A log for each pump record the number of faults that has occurred.
-- The log reset every 3 days (For simulation purposes every 1 min).
-- The analog sensor signal will come in form of [400-20000] so it needs to be scaled to [0-10]m.
+The system also includes:
+- Start and Stop Push-buttons
+- Pump Overload Protection: Each pump's overload signal is monitored by the PLC. In case of an overload, only the corresponding pump stops.
+- Fault Log: Each pump records the number of faults, with logs resetting every 3 days (simulated to reset every 1 minute for testing).
+- Analog Sensor Calibration: The analog sensor signal is scaled from [400-20000] to [0-10] meters.
+
+## Technology Stack
+This project is implemented using:
+- **Ladder Logic**: The control logic for the water distribution system is designed using ladder logic diagrams.
+- **CODESYS**: The project is developed and simulated using CODESYS, a leading development environment for programming industrial controllers.
